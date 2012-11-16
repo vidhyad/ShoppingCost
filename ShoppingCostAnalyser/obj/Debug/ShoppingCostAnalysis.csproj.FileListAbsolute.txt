@@ -1,0 +1,5 @@
+C:\Users\vidhyad\Documents\Visual Studio 2010\Projects\ShoppingCostSolution\ShoppingCostAnalyser\bin\ShoppingCostAnalyser.dll
+C:\Users\vidhyad\Documents\Visual Studio 2010\Projects\ShoppingCostSolution\ShoppingCostAnalyser\bin\ShoppingCostAnalyser.pdb
+C:\Users\vidhyad\Documents\Visual Studio 2010\Projects\ShoppingCostSolution\ShoppingCostAnalyser\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vidhyad\Documents\Visual Studio 2010\Projects\ShoppingCostSolution\ShoppingCostAnalyser\obj\Debug\ShoppingCostAnalyser.dll
+C:\Users\vidhyad\Documents\Visual Studio 2010\Projects\ShoppingCostSolution\ShoppingCostAnalyser\obj\Debug\ShoppingCostAnalyser.pdb

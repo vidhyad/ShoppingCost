@@ -1,0 +1,7 @@
+c:\users\vidhyad\documents\visual studio 2010\Projects\ShoppingCostSolution\ShoppingCostAnalyser\bin\ShoppingCostAnalyser.dll
+c:\users\vidhyad\documents\visual studio 2010\Projects\ShoppingCostSolution\ShoppingCostAnalyser\bin\ShoppingCostAnalyser.pdb
+c:\users\vidhyad\documents\visual studio 2010\Projects\ShoppingCostSolution\ShoppingCostAnalyser\bin\EntityFramework.dll
+c:\users\vidhyad\documents\visual studio 2010\Projects\ShoppingCostSolution\ShoppingCostAnalyser\bin\EntityFramework.xml
+c:\users\vidhyad\documents\visual studio 2010\Projects\ShoppingCostSolution\ShoppingCostAnalyser\obj\Debug\ResolveAssemblyReference.cache
+c:\users\vidhyad\documents\visual studio 2010\Projects\ShoppingCostSolution\ShoppingCostAnalyser\obj\Debug\ShoppingCostAnalyser.dll
+c:\users\vidhyad\documents\visual studio 2010\Projects\ShoppingCostSolution\ShoppingCostAnalyser\obj\Debug\ShoppingCostAnalyser.pdb

@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="28F79CE6-BB45-4A63-93FC-F28542B2CAF1" ModuleId="ShoppingCostAnalyser" />
+  <Module PersistentId="5C66B2B8-15DF-4B64-949F-5E6B05652EFF" ModuleId="ShoppingCostAnalyser.Tests" />
+</Modules>

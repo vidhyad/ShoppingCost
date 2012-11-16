@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<project name="Shopping Cost Analysis" default="build" basedir=".">
+		
+	<target name="clean" description="remove all generated files">
+		<delete dir="build-output" failonerror="false" />
+	</target>
+	
+	<target name="copy.ref" description="copies reference library files to output folder">
+		<mkdir dir="build-output"></mkdir>
+		<copy file="packages/NUnit.2.6.1/lib/nunit.framework.dll" tofile="build-output/nunit.framework.dll" />
+		<copy file="ShoppingCostAnalyser.Tests.config" tofile="build-output/ShoppingCostAnalyser.Tests.config" />
+	</target>	
+	
+	<target name="build.src" description="compiles the source code">		
+		<csc target="library" output="build-output/ShoppingCostAnalysis.dll">
+			<sources basedir="ShoppingCostAnalyser/Models">
+				<include name="**/*.cs" />
+			</sources>
+		</csc>
+	</target>	
+	
+	<target name="build.test" description="compiles the test code">		
+		<csc target="library" output="build-output/ShoppingCostAnalysisTest.dll">
+			<sources basedir="ShoppingCostAnalysesr.Tests/Models">
+				<include name="**/*.cs" />
+			</sources>
+			<references basedir=".">
+				<include name="build-output/ShoppingCostAnalysis.dll" />
+				<include name="packages/**/nunit*.dll" />
+			</references>
+		</csc>
+	</target>
+	
+	<target name="run.test" description="runs all unit tests">
+		<nunit2>
+			<formatter type="Plain" />
+			<test assemblyname="build-output/ShoppingCostAnalysisTest.dll" appconfig="build-output/ShoppingCostAnalyser.Tests.config"/>
+		</nunit2>		
+	</target>	
+	
+</project>

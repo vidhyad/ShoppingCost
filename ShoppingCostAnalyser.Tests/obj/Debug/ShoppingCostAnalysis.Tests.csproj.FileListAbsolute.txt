@@ -1,0 +1,12 @@
+C:\Users\vidhyad\Documents\Visual Studio 2010\Projects\ShoppingCostSolution\ShoppingCostAnalyser.Tests\bin\Debug\ShoppingCostAnalyser.Tests.dll
+C:\Users\vidhyad\Documents\Visual Studio 2010\Projects\ShoppingCostSolution\ShoppingCostAnalyser.Tests\bin\Debug\ShoppingCostAnalyser.Tests.pdb
+C:\Users\vidhyad\Documents\Visual Studio 2010\Projects\ShoppingCostSolution\ShoppingCostAnalyser.Tests\bin\Debug\Moq.dll
+C:\Users\vidhyad\Documents\Visual Studio 2010\Projects\ShoppingCostSolution\ShoppingCostAnalyser.Tests\bin\Debug\nunit.framework.dll
+C:\Users\vidhyad\Documents\Visual Studio 2010\Projects\ShoppingCostSolution\ShoppingCostAnalyser.Tests\bin\Debug\Moq.pdb
+C:\Users\vidhyad\Documents\Visual Studio 2010\Projects\ShoppingCostSolution\ShoppingCostAnalyser.Tests\bin\Debug\Moq.xml
+C:\Users\vidhyad\Documents\Visual Studio 2010\Projects\ShoppingCostSolution\ShoppingCostAnalyser.Tests\bin\Debug\nunit.framework.xml
+C:\Users\vidhyad\Documents\Visual Studio 2010\Projects\ShoppingCostSolution\ShoppingCostAnalyser.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vidhyad\Documents\Visual Studio 2010\Projects\ShoppingCostSolution\ShoppingCostAnalyser.Tests\obj\Debug\ShoppingCostAnalyser.Tests.dll
+C:\Users\vidhyad\Documents\Visual Studio 2010\Projects\ShoppingCostSolution\ShoppingCostAnalyser.Tests\obj\Debug\ShoppingCostAnalyser.Tests.pdb
+C:\Users\vidhyad\Documents\Visual Studio 2010\Projects\ShoppingCostSolution\ShoppingCostAnalyser.Tests\bin\Debug\ShoppingCostAnalyser.dll
+C:\Users\vidhyad\Documents\Visual Studio 2010\Projects\ShoppingCostSolution\ShoppingCostAnalyser.Tests\bin\Debug\ShoppingCostAnalyser.pdb
